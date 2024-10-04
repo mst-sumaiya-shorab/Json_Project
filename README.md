@@ -3,3 +3,14 @@
 
 
 ## Features
+- User Loging System
+- Question add
+- Randomized Quiz Questions
+- Unlimited Questions
+- Scoring
+- Retry Option
+
+## Technologies Used
+* Java
+* Json
+* json.simple
