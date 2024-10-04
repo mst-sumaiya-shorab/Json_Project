@@ -1,0 +1,83 @@
+[
+  {
+    "answerkey": 2,
+    "option 3": "Develop new software features",
+    "option 4": "Reduce software performance",
+    "question": "What is the main goal of SQA?",
+    "option 1": "Increase the cost of software development",
+    "option 2": "Ensure software meets specified requirements"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Risk management",
+    "option 4": "Marketing strategy",
+    "question": " Which of the following is NOT a part of SQA?",
+    "option 1": "Code reviews",
+    "option 2": "Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To develop new features",
+    "option 4": "To deploy software",
+    "question": "What is the role of testing in SQA?",
+    "option 1": "To make sure the software is free of bugs",
+    "option 2": "To identify defects in the software"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Testing individual components or functions",
+    "option 4": "Testing the entire system",
+    "question": "What does unit testing focus on??",
+    "option 1": "Testing user interactions",
+    "option 2": "Testing deployment environment"
+  },
+  {
+    "answerkey": 1,
+    "option 3": " Value stream mapping",
+    "option 4": "Vendor management system",
+    "question": " What does the V-Model in SQA represent?",
+    "option 1": "Verification and Validation process",
+    "option 2": " Version control system"
+  },
+  {
+    "answerkey": 1,
+    "option 3": " Testing the system's performance",
+    "option 4": "Vendor management system",
+    "question": "Which of the following is black-box testing?",
+    "option 1": "Testing without knowledge of the internal code structure",
+    "option 2": " Testing with complete access to source code"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Testing how software units work together",
+    "option 4": "Testing individual functions or components in isolation",
+    "question": "What is unit testing used for?",
+    "option 1": " Testing the overall system behavior",
+    "option 2": "  Testing user interaction"
+  },
+  {
+    "answerkey": 1,
+    "option 3": " Unit testing",
+    "option 4": "Integration testing",
+    "question": " What type of testing focuses on the system’s performance under heavy load?",
+    "option 1": "Load testing",
+    "option 2": "Usability testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "System testing",
+    "option 4": "Integration testing",
+    "question": "What is the first level of testing usually performed?",
+    "option 1": "Load testing",
+    "option 2": "Unit testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "System testing",
+    "option 4": "Acceptance testing",
+    "question": "Which testing ensures that the software meets the user’s needs?",
+    "option 1": "Load testing",
+    "option 2": "Unit testing"
+  }
+
+]
